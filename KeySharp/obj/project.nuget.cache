@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYF6bAkjArAq5mQd37+KGOk9nN69Or0TrzYp1Sndg5sIl+hafyAPScuKm8wG7Zo73hovn47q6HGh3xCqXshR/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FaithOlusegun\\source\\repos\\KeySharp\\KeySharp\\KeySharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FaithOlusegun\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

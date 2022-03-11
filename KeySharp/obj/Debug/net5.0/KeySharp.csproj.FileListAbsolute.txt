@@ -1,0 +1,16 @@
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\bin\Debug\net5.0\KeySharp.exe
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\bin\Debug\net5.0\KeySharp.deps.json
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\bin\Debug\net5.0\KeySharp.runtimeconfig.json
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\bin\Debug\net5.0\KeySharp.runtimeconfig.dev.json
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\bin\Debug\net5.0\KeySharp.dll
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\bin\Debug\net5.0\ref\KeySharp.dll
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\bin\Debug\net5.0\KeySharp.pdb
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\KeySharp.csproj.AssemblyReference.cache
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\KeySharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\KeySharp.AssemblyInfoInputs.cache
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\KeySharp.AssemblyInfo.cs
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\KeySharp.csproj.CoreCompileInputs.cache
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\KeySharp.dll
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\ref\KeySharp.dll
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\KeySharp.pdb
+C:\Users\FaithOlusegun\source\repos\KeySharp\KeySharp\obj\Debug\net5.0\KeySharp.genruntimeconfig.cache
